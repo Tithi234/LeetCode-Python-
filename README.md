@@ -19,7 +19,7 @@ Whether you’re **learning Python** or **preparing for coding interviews**, you
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tithi234&show_icons=true&theme=radical)
 
 ---
 
@@ -46,19 +46,7 @@ Whether you’re **learning Python** or **preparing for coding interviews**, you
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/LeetCodePython.git
+git clone https://github.com/Tithi234/LeetCodePython.git
 
-🤝 Contributing
 
-This is primarily my practice repo, but contributions are welcome!
-If you want to add solutions, optimize existing code, or share tips:
 
-Fork the repo
-
-Create a new branch: git checkout -b feature/problem-name
-
-Commit your changes: git commit -m 'Add solution for problem'
-
-Push to the branch: git push origin feature/problem-name
-
-Open a Pull Request
