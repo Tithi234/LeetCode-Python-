@@ -1,52 +1,72 @@
-# 🐍 LeetCodePython
+# Hi there 👋, I'm Tithi Joshi
 
-Solving **LeetCode problems** in Python with a focus on **arrays** and **strings**.  
-Clear explanations, optimized solutions, and progress tracking to help you level up your Python and problem-solving skills!  
-
----
-
-## 🌟 About
-
-This repository contains my **Python solutions** for LeetCode problems. Each solution includes:
-
-- Python implementation
-- Brief explanation of the approach
-- Optimized code (wherever possible)
-
-Whether you’re **learning Python** or **preparing for coding interviews**, you’ll find this repo helpful.
+### 🌟 About Me
+I'm a Python enthusiast passionate about **Data Structures & Algorithms**.  
+Currently solving **LeetCode problems** and documenting my journey to improve problem-solving skills.  
+Focused on learning one step at a time — quality over quantity 💻✨
 
 ---
 
-## 📊 GitHub Stats
+### 🧩 LeetCode Progress
+I have completed **15+ problems** in Python for the **Arrays & Strings** chapter.  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tithi234&show_icons=true&theme=radical)
+Check out my solutions: [LeetCode-Python-DSA](https://github.com/Tithi234/LeetCode-Python-DSA)
 
----
-
-## 📝 Problem Categories
-
-### Arrays
-- pivot_index.py ✅
-- largest_numbers.py ✅
-- plus_one.py ✅
-- spiral_matrix.py ✅
-- two_sum.py ✅
-
-### Strings
-- add_binary.py ✅
-- diagonal_transverse.py ✅
-- implement_str.py ✅
-- longest_common.py ✅
-- pascals_traingle.py ✅
-- reverse_string.py ✅
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tithi__07?theme=dark&font=Source%20Code%20Pro)
 
 ---
 
-## ⚡ How to Use
+### 📂 Recent Work (Arrays & Strings)
+Here are some problems I've solved:
+- Move Zeroes
+- Two Sum
+- Best Time to Buy and Sell Stock
+- Rotate Array
+- Reverse String
+- And other problems in the Arrays & Strings chapter (15+ total)
 
-1. Clone the repo:
-```bash
-git clone https://github.com/Tithi234/LeetCodePython.git
+🔗 Repository: [LeetCode-Python-DSA](https://github.com/Tithi234/LeetCode-Python-DSA)
 
+---
+
+### 📊 GitHub Stats
+![Tithi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tithi234&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tithi234&layout=compact&theme=radical)
+
+---
+
+### 🏆 Streak & Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tithi234&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Tithi234&theme=react-dark&area=true)
+
+---
+
+### 🛠️ Tech Stack & Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?style=for-the-badge)
+
+---
+
+### 🚀 Roadmap
+- ✅ Arrays & Strings (15+ problems) ✔️
+- 🔜 Linked Lists
+- 🔜 Stacks & Queues
+- 🔜 Binary Trees
+- 🔜 Recursion & Backtracking
+- 🔜 Dynamic Programming
+
+---
+
+### ✨ Fun Quote
+_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+---
+
+### 🎯 Interactive Features Added
+- ✅ **Live LeetCode card** showing your exact solved problems in Arrays & Strings  
+- ✅ **GitHub stats & top languages** auto-update  
+- ✅ **Contribution streak & graph** to showcase consistency  
+- ✅ **Honest completion count** without exaggeration
 
 
