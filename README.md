@@ -12,7 +12,7 @@ I have completed **15+ problems** in Python for the **Arrays & Strings** chapter
 
 Check out my solutions: [LeetCode-Python-](https://github.com/Tithi234/LeetCode-Python-)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Tithi__07?theme=dark&font=Source%20Code%20Pro)
+![LeetCode Stats](https://leetcode.com/progress/)
 
 ---
 
