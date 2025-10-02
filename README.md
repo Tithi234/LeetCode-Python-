@@ -10,7 +10,7 @@ Focused on learning one step at a time — quality over quantity 💻✨
 ### 🧩 LeetCode Progress
 I have completed **15+ problems** in Python for the **Arrays & Strings** chapter.  
 
-Check out my solutions: [LeetCode-Python-DSA](https://github.com/Tithi234/LeetCode-Python-DSA)
+Check out my solutions: [LeetCode-Python](https://github.com/Tithi234/LeetCode-Python)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tithi__07?theme=dark&font=Source%20Code%20Pro)
 
@@ -25,7 +25,7 @@ Here are some problems I've solved:
 - Reverse String
 - And other problems in the Arrays & Strings chapter (15+ total)
 
-🔗 Repository: [LeetCode-Python-DSA](https://github.com/Tithi234/LeetCode-Python-DSA)
+🔗 Repository: [LeetCode-Python](https://github.com/Tithi234/LeetCode-Python)
 
 ---
 
